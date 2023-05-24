@@ -1,0 +1,91 @@
+/* CSS styles for the chat container and messages */
+
+#chat-container {
+    width: 1200px;
+    height: 80vh;
+    overflow: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #FFFFFF !important;
+    }
+
+.user-message {
+    background-color: #aad8ec;
+    padding: 5px;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    }
+
+.assistant-message {
+    background-color: #f2f2f2;
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 900px;
+}
+
+.container{
+    margin-left: 0px !important;
+    padding-left: 0px;
+    margin-top: 0px !important;
+}
+
+.row-left{
+    background-color: #353740;
+    height: 100vh;
+}
+
+a{
+    color: #FFFFFF !important;
+}
+
+
+.nav-pills .nav-item .nav-link.active {
+    background-color: rgba(217,217,227,.2);
+    color: white;
+}
+
+.h1{
+    color: #FFFFFF;
+    margin-top: 10px;
+    font-size: 12px;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+    padding-bottom: 10px !important;
+    font-family: ui-sans-serif,system-ui;
+    border: 1px solid #acacbe;
+    box-sizing: border-box;
+    border-radius: 0.375rem;
+}
+
+.tab-pane{
+    width: 100%;
+}
+
+.tab-content{
+    width: 100%;
+}
+
+.box-request{
+    display: flex;
+    flex: 10;
+    position: absolute;
+    width:1200px;
+    bottom: 0;
+}
+#user-input{
+    height: 60px;
+}
+.box-request-chill-1{
+    flex: 9;
+}
+.box-request-chill-2{
+    flex: 1;
+    height: 60px;
+}
