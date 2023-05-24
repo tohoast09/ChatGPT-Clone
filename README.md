@@ -22,6 +22,7 @@ Once the project is set up and running, follow these steps to use the ChatGPT:
 5. Continue the conversation by entering more messages and receiving responses from ChatGPT.
 6. You can also navigate to the "Descriptions" and "Contact" tabs to explore additional content.
 
+Or visit site https://tohoast09.github.io/ChatGPT-Clone/
 # Code Structure
 
 The project consists of the following main files:
